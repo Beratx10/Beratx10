@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Merhabalar 👋
+Python ile yaptıgım Net Hesaplama projeme HOŞGELDINIZ.
 <!--
 **Beratx10/Beratx10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
